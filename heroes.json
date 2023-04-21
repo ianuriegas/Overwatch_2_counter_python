@@ -1,0 +1,142 @@
+{
+  "D.Va": {
+    "role": "Tank",
+    "counters": ["Sombra", "Zarya", "Roadhog", "Junkrat"]
+  },
+  "Doomfist": {
+    "role": "Tank",
+    "counters": ["Reaper", "Pharah", "Genji", "Echo"]
+  },
+  "Junker Queen": {
+    "role": "Tank",
+    "counters": ["Bastion", "Zenyatta", "Mei", "Orisa"]
+  },
+  "Orisa": {
+    "role": "Tank",
+    "counters": ["Winston", "Zenyatta", "Junkrat", "Reaper"]
+  },
+  "Reinhardt": {
+    "role": "Tank",
+    "counters": ["Reaper", "Bastion", "Pharah", "Junkrat"]
+  },
+  "Roadhog": {
+    "role": "Tank",
+    "counters": ["Ana", "Zarya", "Widowmaker", "Reaper"]
+  },
+  "Sigma": {
+    "role": "Tank",
+    "counters": ["Orisa", "Reaper", "Genji", "Reinhardt"]
+  },
+  "Winston": {
+    "role": "Tank",
+    "counters": ["Roadhog", "Ana", "Junkrat", "Moira"]
+  },
+  "Wrecking Ball": {
+    "role": "Tank",
+    "counters": ["Sombra", "Reaper", "Bastion", "Pharah"]
+  },
+  "Zarya": {
+    "role": "Tank",
+    "counters": ["Pharah", "Sombra", "Zenyatta", "Bastion"]
+  },
+  "Ashe": {
+    "role": "Damage",
+    "counters": ["Widowmaker", "Hanzo", "Tracer", "Reinhardt"]
+  },
+  "Bastion": {
+    "role": "Damage",
+    "counters": ["Roadhog", "Junkrat", "Ana", "Reaper"]
+  },
+  "Cassidy": {
+    "role": "Damage",
+    "counters": ["Widowmaker", "Winston", "Baptiste", "Tracer"]
+  },
+  "Echo": {
+    "role": "Damage",
+    "counters": ["Widowmaker", "Sojourn", "Hanzo", "Sombra"]
+  },
+  "Genji": {
+    "role": "Damage",
+    "counters": ["Pharah", "Brigitte", "Zarya", "Ana"]
+  },
+  "Hanzo": {
+    "role": "Damage",
+    "counters": ["Widowmaker", "Winston", "Genji", "D.Va"]
+  },
+  "Junkrat": {
+    "role": "Damage",
+    "counters": ["Pharah", "Kiriko", "Echo", "Widowmaker"]
+  },
+  "Mei": {
+    "role": "Damage",
+    "counters": ["Pharah", "Sombra", "Widowmaker", "Soldier 76"]
+  },
+  "Pharah": {
+    "role": "Damage",
+    "counters": ["Widowmaker", "Hanzo", "Sojourn", "Soldier 76"]
+  },
+  "Reaper": {
+    "role": "Damage",
+    "counters": ["Widowmaker", "Echo", "Pharah", "Zenyatta"]
+  },
+  "Sojourn": {
+    "role": "Damage",
+    "counters": ["Winston", "Zarya", "Widowmaker", "Lucio"]
+  },
+  "Soldier 76": {
+    "role": "Damage",
+    "counters": ["Roadhog", "Winston", "Genji", "Sigma"]
+  },
+  "Sombra": {
+    "role": "Damage",
+    "counters": ["Hanzo", "Junkrat", "Widowmaker", "Tracer"]
+  },
+  "Symmetra": {
+    "role": "Damage",
+    "counters": ["D.Va", "Pharah", "Winston", "Junker Queen"]
+  },
+  "Torbjorn": {
+    "role": "Damage",
+    "counters": ["Pharah", "Widowmaker", "Ana", "Echo"]
+  },
+  "Tracer": {
+    "role": "Damage",
+    "counters": ["Winston", "Brigitte", "Pharah", "Torbjorn"]
+  },
+  "Widowmaker": {
+    "role": "Damage",
+    "counters": ["Winston", "Wrecking Ball", "Sojourn", "Reinhardt"]
+  },
+  "Ana": {
+    "role": "Support",
+    "counters": ["D.Va", "Widowmaker", "Junker Queen", "Tracer"]
+  },
+  "Baptiste": {
+    "role": "Support",
+    "counters": ["D.Va", "Genji", "Hanzo", "Roadhog"]
+  },
+  "Brigitte": {
+    "role": "Support",
+    "counters": ["Bastion", "Pharah", "Junkrat", "Hanzo"]
+  },
+  "Kiriko": {
+    "role": "Support",
+    "counters": ["Widowmaker", "Sombra", "Sojourn", "Tracer"]
+  },
+  "Lucio": {
+    "role": "Support",
+    "counters": ["Pharah", "Torbjorn", "Moira", "Bastion"]
+  },
+  "Mercy": {
+    "role": "Support",
+    "counters": ["Widowmaker", "Winston", "Roadhog", "Sojourn"]
+  },
+  "Moira": {
+    "role": "Support",
+    "counters": ["Widowmaker", "Sombra", "Wrecking Ball", "Winston"]
+  },
+  "Zenyatta": {
+    "role": "Support",
+    "counters": ["Junker Queen", "Winston", "Widowmaker", "Genji"]
+  }
+}
